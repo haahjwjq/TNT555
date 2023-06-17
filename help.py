@@ -127,22 +127,7 @@ tele_checker2 = '''
 
 الانـواع :
 
-╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
-1 _ sxsss,,s1sss
-2 _ ssxss,,ss1ss
-3 _ sssxs,,sss1s
-4 _ ssssx,,ssss1
-5_  sxxss,,s11ss
-6_  ssxxs,,ss11s
-7_  sssxx,,sss11
-8_  sxxxs,,s111s
-9_  sxsxs,,s1s1s
-10_sxxsx,,s11s1
-11_ssxsx,,ss1s1
-12_sxssx,,s1ss1
-13_ssxxx,,ss111
-14_sxsxx,,s1s11
-15_sxxxx,,s1111
+╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 طريقـة تفـعيل الـصيد 
 
